@@ -18,6 +18,9 @@ export default class Vianday extends Component {
       <View style={styles.container}>
         <Text style={styles.welcome}>
           Welcome to React Native!
+
+          Testing Git Set up! 
+
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
